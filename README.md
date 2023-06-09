@@ -12,3 +12,5 @@
 2.movie.php的架構
 3.watchlist.php須做到儲存片單
 4.home的搜尋功能以及篩選功能
+
+phpmyadmin帳密皆為:team9
